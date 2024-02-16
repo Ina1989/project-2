@@ -96,7 +96,7 @@
     width: 100%; /* Adjust to full width of the viewport */
     height: auto; /* Allow height to be determined by content */
     margin: none;
-    margin-left: 100px;
+    margin-left: 00px;
     padding: 20px; /* Add some padding for better spacing */
     border-radius: 12px;
     background-image: linear-gradient(180deg, #130754 0%, #3b2f80 100%);
